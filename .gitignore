@@ -1,0 +1,12 @@
+﻿*.csv
+*.zip
+*.mp4
+*.jpg
+*.png
+*.env
+*.json
+*.pickle
+secret*.py
+tmp/
+backtest_output/
+.idea/
